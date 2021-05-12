@@ -3,7 +3,7 @@ Rust By Example
 https://doc.rust-lang.org/stable/rust-by-example/
 
 
-- [ ] 1. Hello World
+- [x] 1. Hello World
 - [ ] 2. Primitives
 - [ ] 3. Custom Types
 - [ ] 4. Variable Bindings
