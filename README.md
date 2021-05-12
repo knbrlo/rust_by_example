@@ -4,6 +4,12 @@ https://doc.rust-lang.org/stable/rust-by-example/
 
 
 - [x] 1. Hello World
+    - [x] 1.1 Comments
+    - [x] 1.2 Formatted print
+        - [ ] 1.2.1 Debug
+        - [ ] 1.2.2 Display
+            - [ ] 1.2.2.1 Testcase: List
+        - [ ] 1.2.3 Formatting
 - [ ] 2. Primitives
 - [ ] 3. Custom Types
 - [ ] 4. Variable Bindings
